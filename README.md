@@ -58,4 +58,10 @@ Full queries: [`customer_project_sql.sql`]([./customer_project_sql.sql])
 - `customer_shopping_behavior.csv` — raw dataset
 - `customerbehaviour.ipynb` — data cleaning & feature engineering notebook
 - `customer_project_sql.sql` — SQL analysis queries
-- Dashboard screenshots — `/screenshots`
+- Dashboard screenshots
+<img width="1236" height="738" alt="Overview" src="https://github.com/user-attachments/assets/a7fcfd7e-c593-4894-88d3-34c1384a3ec8" />
+<img width="1301" height="732" alt="Demographic" src="https://github.com/user-attachments/assets/9390cd2d-a806-46d8-adab-8235ff01312d" />
+<img width="1302" height="736" alt="Products and Category" src="https://github.com/user-attachments/assets/0c223a50-2fcd-4d21-bec0-8ca9fd4c42de" />
+
+
+
