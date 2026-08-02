@@ -77,7 +77,7 @@ Make sure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/OMACP/Customer_Behaviour_Analysis-.git
+https://github.com/xmeintoss-art/Customer-analysis-git
 cd Customer_Behaviour_Analysis-
 ```
 
